@@ -19,9 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=avishekgupta&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avishekgupta&theme=radical&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=avishekgupta&theme=radical&no-bg=true)
-
 ### 💬 Daily Dev Wisdom
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
