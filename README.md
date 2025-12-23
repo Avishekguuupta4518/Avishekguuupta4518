@@ -1,26 +1,61 @@
-# 👨‍💻 Hey, ![img](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Avishek Gupta!
+# 👋 Hey, I’m Avishek Gupta
 
-🎓 Computer Engineering student exploring the tech universe.<br>
-💡 MERN Stack enthusiast, diving into Next.js and modern web.<br>
-🌍 Passionate about crafting sleek, scalable web apps.<br>
-🚀 Forever curious, building and learning new technologies.<br><br>
-📬 Let’s connect! Check out my projects or say hi on the links below.
+🚀 **Computer Engineering Student | Full-Stack Web Developer**  
+💻 Building scalable web apps with **MERN & Next.js**  
+📈 Obsessed with clean architecture, performance, and real-world impact  
 
-## 🌐 Connect with Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/avishek.gupta.37625)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avishek.rauniyar45?igsh=czhjazNzaHB5aTEw)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishek-gupta-31a4b4309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+I don’t just learn tech — I **ship**.  
+From APIs to pixel-perfect UIs, I enjoy turning ideas into production-ready products.
 
+---
 
-# ⚙️ My Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Photoshop](https://img.shields.io/badge/photoshop-%231872B6.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  ![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+## 🧠 What I’m Working On (Real-Time)
+- 🔥 Full-stack MERN & Next.js projects  
+- ⚙️ REST APIs, authentication, and database design  
+- 🎨 Clean UI systems with Tailwind CSS  
+- 🚀 Deployment on Vercel & Render  
+- 📚 Leveling up in system design & modern JavaScript
 
-# 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=avishekgupta&theme=radical&show_icons=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=avishekgupta&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avishekgupta&theme=radical&layout=compact)
+---
 
-### 💬 Daily Dev Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+## 🛠 Tech Stack (Battle-Tested)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->#
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Languages & Tools
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+## 📊 GitHub at a Glance
+![Stats](https://github-readme-stats.vercel.app/api?username=avishekgupta&show_icons=true&theme=radical&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=avishekgupta&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avishekgupta&layout=compact&theme=radical)
+
+---
+
+## 🌐 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishek-gupta-31a4b4309)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avishek.rauniyar45)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/avishek.gupta.37625)
+
+---
+
+## 💬 Dev Philosophy
+> *“Code should be readable, scalable, and boring to maintain — exciting to users.”*
+
+---
+
+⭐ If you like what I’m building, star a repo.  
+🤝 If you want to collaborate, DM me.  
+🚀 If you’re hiring, let’s talk business.
