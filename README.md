@@ -37,13 +37,6 @@ From APIs to pixel-perfect UIs, I enjoy turning ideas into production-ready prod
 
 ---
 
-## 📊 GitHub at a Glance
-![Stats](https://github-readme-stats.vercel.app/api?username=avishekgupta&show_icons=true&theme=radical&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=avishekgupta&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avishekgupta&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishek-gupta-31a4b4309)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avishek.rauniyar45)
