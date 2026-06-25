@@ -153,7 +153,7 @@ Advanced AWS
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avishekguuupta4518/Avishekgupta4518/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Avishekgupta4518/Avishekgupta4518/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
