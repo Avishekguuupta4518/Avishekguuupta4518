@@ -19,7 +19,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: dushyantsharma460
+          github_user_name: Avishekguuupta4518
           # Optional: pass SNK_TOKEN secret (a PAT with read:user scope) to
           # include PRIVATE contributions. Without it, only public contributions
           # appear in the snake.
