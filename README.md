@@ -10,15 +10,24 @@
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me:
 
-- 🎓 Computer Engineering Student
-- 💻 Full Stack Developer with a strong focus on Backend Engineering
-- 🤖 Exploring Agentic AI, RAG Systems & LLM Integrations
-- 📱 Learning Mobile Development with React Native
-- ☁️ Interested in Cloud Architecture, DevOps & System Design
-- 🚀 Passionate about solving real-world problems through technology
-
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>📘 I'm currently pursuing Bachelors in <strong>Computer Engineering</strong> at <strong>IOE Purwanchal Campus Dharan</strong></li>
+        <li>👨‍💻 I’m a <strong>Web Developer</strong> actively working on various projects</li>
+        <li>🛠️ Love programming and creating <strong>scalable software products</strong></li>
+        <li>🔥 Exploring the intersection of <strong>AI</strong>, <strong>Cloud</strong>, and <strong>Development</strong></li>
+        <li>🌍 Passionate about learning <strong>Technology</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://khatriroshan.com.np/static/media/giphy.b31655aeb566789dab09.gif" alt="About Me Gif" width="200" height="200" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🌐 Connect With Me
@@ -99,12 +108,26 @@
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avishekguuupta4518&theme=chartreuse-dark)
+---
+
+---
+
+### ⚡ Fun Fact:
+- I love coding like Ninja 🥷and debugging like Sherlock Holmes 🕵️
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avishekguuupta4518&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/Amanrajguptaa?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Amanrajguptaa?color=b9d38f&style=for-the-badge&labelColor=81CC08&logo=star"/></a>
+  <a href="https://github.com/Amanrajguptaa?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Amanrajguptaa?color=b9d38f&labelColor=81CC08&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Amanrajguptaa&style=for-the-badge&color=81CC08" alt="profile views" />
 </p>
 
+---
 ## 🤖 Currently Exploring
 
 ```yaml
