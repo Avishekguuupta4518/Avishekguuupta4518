@@ -111,7 +111,6 @@
 ### 📈 Contribution Graph:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avishekguuupta4518&theme=chartreuse-dark)
----
 
 ---
 
@@ -120,14 +119,14 @@
 
 
 <p align="center">
-  <a href="https://github.com/Amanrajguptaa?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Amanrajguptaa?color=b9d38f&style=for-the-badge&labelColor=81CC08&logo=star"/></a>
-  <a href="https://github.com/Amanrajguptaa?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Amanrajguptaa?color=b9d38f&labelColor=81CC08&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Amanrajguptaa&style=for-the-badge&color=81CC08" alt="profile views" />
+  <a href="https://github.com/Avishekguuupta4518?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Avishekguuupta4518?color=b9d38f&style=for-the-badge&labelColor=81CC08&logo=star"/></a>
+  <a href="https://github.com/Avishekguuupta4518?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Avishekguuupta4518?color=b9d38f&labelColor=81CC08&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Avishekguuupta4518&style=for-the-badge&color=81CC08" alt="profile views" />
 </p>
-
 ---
+
 ## 🤖 Currently Exploring
 
 ```yaml
@@ -142,6 +141,7 @@ Cloud Architecture
 System Design
 Advanced AWS
 ```
+---
 
 ## 🔥 GitHub Streak
 
@@ -149,7 +149,7 @@ Advanced AWS
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Avishekguuupta4518&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
-
+---
 
 ## 🐍 Contribution Snake
 
