@@ -32,7 +32,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Avishekguuupta4518">
+<a href="https://github.com/Avishekgupta4518">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -109,7 +109,7 @@
 
 ### 📈 Contribution Graph:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avishekguuupta4518&theme=chartreuse-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avishekgupta4518&theme=chartreuse-dark)
 
 ---
 
@@ -118,11 +118,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/Avishekguuupta4518?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Avishekguuupta4518?color=b9d38f&style=for-the-badge&labelColor=81CC08&logo=star"/></a>
-  <a href="https://github.com/Avishekguuupta4518?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Avishekguuupta4518?color=b9d38f&labelColor=81CC08&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Avishekguuupta4518&style=for-the-badge&color=81CC08" alt="profile views" />
+  <a href="https://github.com/Avishekgupta4518?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Avishekgupta4518?color=b9d38f&style=for-the-badge&labelColor=81CC08&logo=star"/></a>
+  <a href="https://github.com/Avishekgupta4518?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Avishekgupta4518?color=b9d38f&labelColor=81CC08&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Avishekgupta4518&style=for-the-badge&color=81CC08" alt="profile views" />
 </p>
 ---
 
@@ -145,7 +145,7 @@ Advanced AWS
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Avishekguuupta4518&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Avishekgupta4518&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -153,7 +153,7 @@ Advanced AWS
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Avishekguuupta4518/Avishekguuupta4518/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Avishekguuupta4518/Avishekgupta4518/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
