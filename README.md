@@ -9,8 +9,8 @@
 </p>
 
 ---
-### 👨‍💻 About Me:
 
+### 👨‍💻 About Me:
 <table>
   <tr>
     <td>
@@ -115,7 +115,6 @@
 
 ### ⚡ Fun Fact:
 - I love coding like Ninja 🥷and debugging like Sherlock Holmes 🕵️
-
 
 <p align="center">
   <a href="https://github.com/Avishekgupta4518?tab=repositories&sort=stargazers">
