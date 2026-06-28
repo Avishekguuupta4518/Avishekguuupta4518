@@ -19,7 +19,7 @@
         <li>👨‍💻 I’m a <strong>Web Developer</strong> actively working on various projects</li>
         <li>🛠️ Love programming and creating <strong>scalable software products</strong></li>
         <li>🔥 Exploring the intersection of <strong>AI</strong>, <strong>Cloud</strong>, and <strong>Development</strong></li>
-        <li>🌍 Passionate about learning <strong>Technology</strong></li>
+        <li>🌍 Passionate about learning new<strong>Technology</strong></li>
       </ul>
     </td>
     <td>
@@ -164,6 +164,7 @@ while True:
     learn()
     build()
     ship()
+    deploy()
     improve()
 ```
 
